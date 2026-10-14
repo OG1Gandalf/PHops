@@ -1,0 +1,545 @@
+@import "tailwindcss";
+
+/* Class-based dark mode (toggle + system default, set before first paint by an inline script) */
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --header-h: 3.5rem;
+  --nav-h: 4.25rem;
+
+  /* Warm red / white / gold palette */
+  --surface: #fffaf4;
+  --surface-2: #ffffff;
+  --surface-3: #fbefe3;
+  --ink: #2b1a14;
+  --muted: #62514a;
+  --line: #ead9c9;
+  --brand: #a81d1d;
+  --brand-hover: #8c1515;
+  --brand-ink: #ffffff;
+  --brand-soft: #fde8e4;
+  --gold: #845800; /* text-safe on --gold-soft (5.4:1) and white (6.2:1) */
+  --gold-soft: #fbefc8;
+  --focus: #1d4ed8;
+
+  --meter-track: #ead9c9;
+  --crowd-low: #15803d;
+  --crowd-low-bg: #dcfce7;
+  --crowd-low-ink: #14532d;
+  --crowd-medium: #d97706;
+  --crowd-medium-bg: #fef3c7;
+  --crowd-medium-ink: #78350f;
+  --crowd-high: #b91c1c;
+  --crowd-high-bg: #fee2e2;
+  --crowd-high-ink: #7f1d1d;
+
+  color-scheme: light;
+}
+
+.dark {
+  --surface: #17100d;
+  --surface-2: #231915;
+  --surface-3: #2e211b;
+  --ink: #f7ece4;
+  --muted: #cdb9ad;
+  --line: #4a372e;
+  --brand: #ee6a63; /* >= 4.5:1 for small text on the dark surface and on --brand-soft */
+  --brand-hover: #f5857f;
+  --brand-ink: #1a0b09;
+  --brand-soft: #4a1d1a;
+  --gold: #f0c04a;
+  --gold-soft: #44340f;
+  --focus: #93c5fd;
+
+  --meter-track: #4a372e;
+  --crowd-low: #4ade80;
+  --crowd-low-bg: #12351f;
+  --crowd-low-ink: #bbf7d0;
+  --crowd-medium: #fbbf24;
+  --crowd-medium-bg: #432d0a;
+  --crowd-medium-ink: #fde68a;
+  --crowd-high: #f87171;
+  --crowd-high-bg: #4a1818;
+  --crowd-high-ink: #fecaca;
+
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-surface-3: var(--surface-3);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-brand: var(--brand);
+  --color-brand-hover: var(--brand-hover);
+  --color-brand-ink: var(--brand-ink);
+  --color-brand-soft: var(--brand-soft);
+  --color-gold: var(--gold);
+  --color-gold-soft: var(--gold-soft);
+  --font-sans: var(--font-inter), var(--font-bengali), ui-sans-serif, system-ui, sans-serif;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--surface);
+  color: var(--ink);
+  font-family: var(--font-inter), var(--font-bengali), ui-sans-serif, system-ui, sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Strong, always-visible keyboard focus */
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ---------- Crowd badges (icon + text + colour, never colour alone) ---------- */
+.crowd-low {
+  background: var(--crowd-low-bg);
+  color: var(--crowd-low-ink);
+  border-color: var(--crowd-low);
+}
+.crowd-medium {
+  background: var(--crowd-medium-bg);
+  color: var(--crowd-medium-ink);
+  border-color: var(--crowd-medium);
+}
+.crowd-high {
+  background: var(--crowd-high-bg);
+  color: var(--crowd-high-ink);
+  border-color: var(--crowd-high);
+}
+
+/* ---------- Skeleton shimmer ---------- */
+.skeleton {
+  background: linear-gradient(90deg, var(--surface-3) 25%, var(--line) 37%, var(--surface-3) 63%);
+  background-size: 400% 100%;
+  animation: shimmer 1.4s ease infinite;
+  border-radius: 8px;
+}
+@keyframes shimmer {
+  0% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
+}
+
+/* ---------- Hide scrollbars on chip rows ---------- */
+.no-scrollbar {
+  scrollbar-width: none;
+  /* Containing block for absolutely positioned children (e.g. .sr-only labels inside chips). Without it they escape
+     the scroller's clipping and stretch the whole page sideways on phones. */
+  position: relative;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* ================= Leaflet ================= */
+.leaflet-container {
+  font-family: inherit;
+  background: #e9e1d8;
+}
+.dark .leaflet-container {
+  background: #1d1714;
+}
+/* Dark map: invert the OSM raster tiles and warm them up */
+.dark .leaflet-tile-pane {
+  filter: invert(1) hue-rotate(180deg) brightness(0.9) contrast(0.9) saturate(0.7);
+}
+.leaflet-control-attribution {
+  font-size: 10px;
+}
+.dark .leaflet-control-attribution {
+  background: rgba(23, 16, 13, 0.8);
+  color: #cdb9ad;
+}
+.dark .leaflet-control-attribution a {
+  color: #f0c04a;
+}
+/* higher specificity than leaflet.css (.leaflet-touch .leaflet-bar a = 30px), whatever the load order */
+.leaflet-container .leaflet-bar a.leaflet-control-zoom-in,
+.leaflet-container .leaflet-bar a.leaflet-control-zoom-out {
+  width: 44px;
+  height: 44px;
+  line-height: 44px;
+}
+/* Touch devices pinch-zoom; hide +/- there to keep the map clear */
+@media (pointer: coarse) {
+  .leaflet-control-zoom {
+    display: none;
+  }
+}
+.leaflet-popup-content-wrapper {
+  border-radius: 12px;
+  background: var(--surface-2);
+  color: var(--ink);
+}
+.leaflet-popup-tip {
+  background: var(--surface-2);
+}
+.leaflet-popup-content {
+  margin: 12px 14px;
+  font-size: 14px;
+  line-height: 1.4;
+}
+.leaflet-popup-content a {
+  color: var(--brand);
+  font-weight: 600;
+}
+
+/* Marker wrappers: no default leaflet divIcon box */
+.pujo-marker {
+  background: none;
+  border: 0;
+}
+/* The interactive wrapper is 44x44 (touch target); the visible dot / bubble is centred inside it. */
+.pujo-marker-c {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Pandal marker: teardrop pin, colour = crowd level, bars = crowd level (non-colour cue) */
+.pm {
+  position: relative;
+  /* 44x44 wrapper, pin tip on its bottom edge */
+  margin: 6px 3px 0;
+  width: 38px;
+  height: 38px;
+  transform-origin: 50% 100%;
+  transition: transform 0.15s ease;
+}
+.pm-body {
+  position: absolute;
+  left: 4px;
+  top: 2px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50% 50% 50% 0;
+  transform: rotate(-45deg);
+  border: 2px solid #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.45);
+}
+.pm-low .pm-body {
+  background: #15803d;
+}
+.pm-medium .pm-body {
+  background: #d97706;
+}
+.pm-high .pm-body {
+  background: #b91c1c;
+}
+.pm-icon {
+  position: absolute;
+  left: 50%;
+  top: 6px;
+  width: 14px;
+  height: 14px;
+  margin-left: -7px;
+  color: #fff;
+}
+.pm-bars {
+  position: absolute;
+  left: 50%;
+  top: 21px;
+  margin-left: -8px;
+  display: flex;
+  align-items: flex-end;
+  gap: 2px;
+  height: 9px;
+}
+.pm-bars i {
+  display: block;
+  width: 4px;
+  border-radius: 1px;
+  background: rgba(255, 255, 255, 0.35);
+}
+.pm-bars i:nth-child(1) {
+  height: 4px;
+}
+.pm-bars i:nth-child(2) {
+  height: 6.5px;
+}
+.pm-bars i:nth-child(3) {
+  height: 9px;
+}
+.pm-bars i.on {
+  background: #fff;
+}
+.pm-selected {
+  transform: scale(1.3);
+  z-index: 1000 !important;
+}
+.pm-selected .pm-body {
+  border-color: #facc15;
+  border-width: 3px;
+}
+
+/* Other layers: round badges, one colour + icon per layer */
+.lm {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.45);
+  font: 700 11px/1 system-ui, sans-serif;
+}
+.lm svg {
+  width: 15px;
+  height: 15px;
+}
+.lm-restrooms {
+  background: #0369a1;
+}
+.lm-parking {
+  background: #4338ca;
+}
+.lm-eateries {
+  background: #c2410c;
+}
+.lm-eateries.famous {
+  background: #a16207;
+  border-color: #facc15;
+  box-shadow: 0 0 0 2px rgba(250, 204, 21, 0.6), 0 1px 5px rgba(0, 0, 0, 0.45);
+}
+.lm-events {
+  background: #7e22ce;
+}
+
+/* Cluster bubbles, tinted per layer */
+.cl {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border: 3px solid rgba(255, 255, 255, 0.95);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font: 700 13px/1 system-ui, sans-serif;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+}
+.cl-pandals {
+  background: #8c1515;
+}
+.cl-restrooms {
+  background: #0369a1;
+}
+.cl-parking {
+  background: #4338ca;
+}
+.cl-eateries {
+  background: #c2410c;
+}
+.cl-events {
+  background: #7e22ce;
+}
+
+.user-dot {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #2563eb;
+  border: 3px solid #fff;
+  box-shadow: 0 0 0 6px rgba(37, 99, 235, 0.25);
+}
+
+/* ---------- Detail sheet ---------- */
+@keyframes sheet-up {
+  from {
+    transform: translateY(24px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+@keyframes sheet-left {
+  from {
+    transform: translateX(24px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+.sheet {
+  animation: sheet-up 0.2s ease-out;
+}
+@media (min-width: 768px) {
+  .sheet {
+    animation-name: sheet-left;
+  }
+}
+
+/* ================= Playful motion (subtle, fast; all disabled by prefers-reduced-motion) ================= */
+
+/* every button gets a quick "press" */
+button {
+  transition-property: transform, background-color, border-color, color, opacity, box-shadow;
+  transition-duration: 0.12s;
+  transition-timing-function: ease-out;
+}
+button:not(:disabled):active {
+  transform: scale(0.96);
+}
+
+@keyframes pop {
+  0% {
+    transform: scale(0.6);
+    opacity: 0;
+  }
+  60% {
+    transform: scale(1.12);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.pop {
+  animation: pop 0.32s cubic-bezier(0.3, 1.4, 0.5, 1) both;
+}
+
+@keyframes rise {
+  from {
+    transform: translateY(10px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+/* staggered list entrance: style="--i: n" */
+.rise {
+  animation: rise 0.28s ease-out both;
+  animation-delay: calc(min(var(--i, 0), 8) * 35ms);
+}
+
+@keyframes toast-in {
+  from {
+    transform: translateY(14px) scale(0.96);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+}
+.toast {
+  animation: toast-in 0.22s cubic-bezier(0.3, 1.3, 0.5, 1) both;
+}
+
+/* heart: pops when saved */
+@keyframes heart-pop {
+  0% {
+    transform: scale(1);
+  }
+  40% {
+    transform: scale(1.35);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.heart-on {
+  animation: heart-pop 0.35s ease-out;
+}
+
+/* logo: tiny wiggle on hover */
+@keyframes wiggle {
+  0%,
+  100% {
+    transform: rotate(0);
+  }
+  25% {
+    transform: rotate(-8deg);
+  }
+  75% {
+    transform: rotate(8deg);
+  }
+}
+.wiggle-hover:hover .wiggle-target {
+  animation: wiggle 0.5s ease-in-out;
+}
+
+/* dice roll */
+@keyframes roll {
+  0% {
+    transform: rotate(0) scale(1);
+  }
+  50% {
+    transform: rotate(200deg) scale(1.2);
+  }
+  100% {
+    transform: rotate(360deg) scale(1);
+  }
+}
+.rolling {
+  animation: roll 0.5s ease-in-out infinite;
+}
+
+/* little confetti burst around a button (6 dots fly out) */
+@keyframes burst-dot {
+  from {
+    transform: translate(-50%, -50%) rotate(var(--a)) translateY(0) scale(1);
+    opacity: 1;
+  }
+  to {
+    transform: translate(-50%, -50%) rotate(var(--a)) translateY(-34px) scale(0.3);
+    opacity: 0;
+  }
+}
+.burst {
+  pointer-events: none;
+  position: absolute;
+  inset: 0;
+}
+.burst i {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 7px;
+  height: 7px;
+  border-radius: 999px;
+  background: var(--c, var(--gold));
+  animation: burst-dot 0.6s ease-out forwards;
+}
+
+/* crowd meter marker slides in from the left once */
+@keyframes meter-slide {
+  from {
+    left: 0%;
+  }
+}
+.meter-marker {
+  left: var(--to);
+  animation: meter-slide 0.7s cubic-bezier(0.22, 1.2, 0.36, 1) both;
+}

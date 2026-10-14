@@ -1,0 +1,42 @@
+[
+  {
+    "id": "curated-quest-mall",
+    "name": "Quest Mall car park",
+    "lat": 22.5397,
+    "lng": 88.3668,
+    "notes": "Mall parking near Park Circus; typically paid by the hour. Fills up on Puja evenings.",
+    "source": "Hand-curated; coordinates approximate"
+  },
+  {
+    "id": "curated-south-city-mall",
+    "name": "South City Mall car park",
+    "lat": 22.5014,
+    "lng": 88.3624,
+    "notes": "Mall parking near Jadavpur / Prince Anwar Shah Rd; typically paid by the hour.",
+    "source": "Hand-curated; coordinates approximate"
+  },
+  {
+    "id": "curated-forum-courtyard",
+    "name": "The Forum / Forum Courtyard car park",
+    "lat": 22.5392,
+    "lng": 88.3525,
+    "notes": "Mall parking on Elgin Road; typically paid. Useful for Bhowanipore / Ballygunge pandals.",
+    "source": "Hand-curated; coordinates approximate"
+  },
+  {
+    "id": "curated-acropolis-mall",
+    "name": "Acropolis Mall car park",
+    "lat": 22.5142,
+    "lng": 88.3965,
+    "notes": "Mall parking near Kasba; typically paid.",
+    "source": "Hand-curated; coordinates approximate"
+  },
+  {
+    "id": "curated-city-centre-salt-lake",
+    "name": "City Centre (Salt Lake) car park",
+    "lat": 22.5875,
+    "lng": 88.411,
+    "notes": "Mall parking in Salt Lake DC Block; typically paid. Useful for Salt Lake pandals.",
+    "source": "Hand-curated; coordinates approximate"
+  }
+]

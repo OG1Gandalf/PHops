@@ -1,0 +1,222 @@
+[
+  {
+    "id": "curated-kusum-rolls",
+    "name": "Kusum Rolls",
+    "lat": 22.553,
+    "lng": 88.353,
+    "cuisineType": "street_food",
+    "priceRange": 1,
+    "isVeg": false,
+    "famousFor": "Classic Kolkata egg & chicken kathi rolls",
+    "source": "Hand-curated (widely cited Kolkata roll spot); coordinates approximate"
+  },
+  {
+    "id": "curated-nizams",
+    "name": "Nizam's",
+    "lat": 22.5603,
+    "lng": 88.3515,
+    "cuisineType": "street_food",
+    "priceRange": 1,
+    "isVeg": false,
+    "famousFor": "The original Kolkata kathi roll (New Market)",
+    "source": "Hand-curated (widely cited Kolkata roll spot); coordinates approximate"
+  },
+  {
+    "id": "curated-zeeshan",
+    "name": "Zeeshan",
+    "lat": 22.542,
+    "lng": 88.366,
+    "cuisineType": "street_food",
+    "priceRange": 1,
+    "isVeg": false,
+    "famousFor": "Rolls, kebabs and Mughlai near Park Circus",
+    "source": "Hand-curated (widely cited Park Circus spot); coordinates approximate"
+  },
+  {
+    "id": "curated-arsalan",
+    "name": "Arsalan",
+    "lat": 22.5411,
+    "lng": 88.3665,
+    "cuisineType": "biryani",
+    "priceRange": 2,
+    "isVeg": false,
+    "famousFor": "Kolkata-style biryani with potato (Park Circus)",
+    "source": "Hand-curated (widely cited Kolkata biryani spot); coordinates approximate"
+  },
+  {
+    "id": "curated-royal-indian-hotel",
+    "name": "Royal Indian Hotel",
+    "lat": 22.576,
+    "lng": 88.3582,
+    "cuisineType": "biryani",
+    "priceRange": 2,
+    "isVeg": false,
+    "famousFor": "Old-school biryani and chaap (Zakaria Street / Chitpur)",
+    "source": "Hand-curated (widely cited Chitpur Mughlai spot); coordinates approximate"
+  },
+  {
+    "id": "curated-aminia",
+    "name": "Aminia",
+    "lat": 22.5605,
+    "lng": 88.3506,
+    "cuisineType": "biryani",
+    "priceRange": 2,
+    "isVeg": false,
+    "famousFor": "Biryani and Mughlai near New Market",
+    "source": "Hand-curated (widely cited Kolkata biryani spot); coordinates approximate"
+  },
+  {
+    "id": "curated-peter-cat",
+    "name": "Peter Cat",
+    "lat": 22.5535,
+    "lng": 88.3515,
+    "cuisineType": "other",
+    "priceRange": 3,
+    "isVeg": false,
+    "famousFor": "Chelo kebab on Park Street",
+    "source": "Hand-curated (widely cited Park Street restaurant); coordinates approximate"
+  },
+  {
+    "id": "curated-6-ballygunge-place",
+    "name": "6 Ballygunge Place",
+    "lat": 22.5262,
+    "lng": 88.3669,
+    "cuisineType": "bengali",
+    "priceRange": 3,
+    "isVeg": false,
+    "famousFor": "Bengali thali and Puja-season special menus",
+    "source": "Hand-curated (widely cited Bengali restaurant); coordinates approximate"
+  },
+  {
+    "id": "curated-aaheli",
+    "name": "Aaheli (Peerless Inn)",
+    "lat": 22.5614,
+    "lng": 88.3515,
+    "cuisineType": "bengali",
+    "priceRange": 3,
+    "isVeg": false,
+    "famousFor": "Bengali thali; Puja food festival",
+    "source": "Hand-curated (widely cited Bengali restaurant); coordinates approximate"
+  },
+  {
+    "id": "curated-oh-calcutta",
+    "name": "Oh! Calcutta",
+    "lat": 22.5392,
+    "lng": 88.3522,
+    "cuisineType": "bengali",
+    "priceRange": 3,
+    "isVeg": false,
+    "famousFor": "Bengali fine-dining (Forum Courtyard, Elgin Road)",
+    "source": "Hand-curated (widely cited Bengali restaurant); coordinates approximate"
+  },
+  {
+    "id": "curated-kewpies",
+    "name": "Kewpie's Kitchen",
+    "lat": 22.5339,
+    "lng": 88.3561,
+    "cuisineType": "bengali",
+    "priceRange": 2,
+    "isVeg": false,
+    "famousFor": "Home-style Bengali meals (Elgin Lane)",
+    "source": "Hand-curated (widely cited Bengali restaurant); coordinates approximate"
+  },
+  {
+    "id": "curated-balaram-mullick",
+    "name": "Balaram Mullick & Radharaman Mullick",
+    "lat": 22.5333,
+    "lng": 88.3477,
+    "cuisineType": "sweets",
+    "priceRange": 2,
+    "isVeg": true,
+    "famousFor": "Traditional Bengali sweets, sandesh and mishti doi (Bhowanipore)",
+    "source": "Hand-curated (widely cited Kolkata sweet shop); coordinates approximate"
+  },
+  {
+    "id": "curated-nobin-chandra-das",
+    "name": "Nobin Chandra Das",
+    "lat": 22.602,
+    "lng": 88.366,
+    "cuisineType": "sweets",
+    "priceRange": 2,
+    "isVeg": true,
+    "famousFor": "Birthplace of the rosogolla (Bagbazar)",
+    "source": "Hand-curated (widely cited Kolkata sweet shop); coordinates approximate"
+  },
+  {
+    "id": "curated-kc-das",
+    "name": "K.C. Das",
+    "lat": 22.5635,
+    "lng": 88.351,
+    "cuisineType": "sweets",
+    "priceRange": 2,
+    "isVeg": true,
+    "famousFor": "Rosogolla and rasomalai (Esplanade)",
+    "source": "Hand-curated (widely cited Kolkata sweet shop); coordinates approximate"
+  },
+  {
+    "id": "curated-girish-chandra-dey",
+    "name": "Girish Chandra Dey & Nakur Chandra Nandy",
+    "lat": 22.6037,
+    "lng": 88.3638,
+    "cuisineType": "sweets",
+    "priceRange": 2,
+    "isVeg": true,
+    "famousFor": "Sandesh varieties (Bagbazar)",
+    "source": "Hand-curated (widely cited Kolkata sweet shop); coordinates approximate"
+  },
+  {
+    "id": "curated-bhim-chandra-nag",
+    "name": "Bhim Chandra Nag",
+    "lat": 22.5688,
+    "lng": 88.3553,
+    "cuisineType": "sweets",
+    "priceRange": 2,
+    "isVeg": true,
+    "famousFor": "Sandesh and Bengali sweets (Bowbazar)",
+    "source": "Hand-curated (widely cited Kolkata sweet shop); coordinates approximate"
+  },
+  {
+    "id": "curated-flurys",
+    "name": "Flurys",
+    "lat": 22.5535,
+    "lng": 88.353,
+    "cuisineType": "cafe",
+    "priceRange": 3,
+    "isVeg": false,
+    "famousFor": "Heritage tearoom, breakfast and pastries (Park Street)",
+    "source": "Hand-curated (widely cited Kolkata cafe); coordinates approximate"
+  },
+  {
+    "id": "curated-indian-coffee-house",
+    "name": "Indian Coffee House (College Street)",
+    "lat": 22.5736,
+    "lng": 88.3641,
+    "cuisineType": "cafe",
+    "priceRange": 1,
+    "isVeg": false,
+    "famousFor": "Adda, coffee and chops since the 1940s",
+    "source": "Hand-curated (widely cited Kolkata cafe); coordinates approximate"
+  },
+  {
+    "id": "curated-paramount",
+    "name": "Paramount",
+    "lat": 22.5744,
+    "lng": 88.3633,
+    "cuisineType": "cafe",
+    "priceRange": 1,
+    "isVeg": true,
+    "famousFor": "Sharbat and soda drinks (College Street)",
+    "source": "Hand-curated (widely cited Kolkata drinks stall); coordinates approximate"
+  },
+  {
+    "id": "curated-dacres-lane",
+    "name": "Dacres Lane street-food lane",
+    "lat": 22.5688,
+    "lng": 88.35,
+    "cuisineType": "street_food",
+    "priceRange": 1,
+    "isVeg": false,
+    "famousFor": "Lunchtime street-food lane near BBD Bagh (cabin cutlets, fish fry)",
+    "source": "Hand-curated (widely cited Kolkata food lane); coordinates approximate"
+  }
+]

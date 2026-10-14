@@ -1,0 +1,15 @@
+GitHub’s website only accepts 100 files in one drag. This project has ~130, so
+do not drag the whole P-Hops folder.
+
+Use the two split folders instead (same file paths the app needs):
+
+  /Users/richikmukherjee/Documents/P-Hops-upload-1   (50 files)  ← first
+  /Users/richikmukherjee/Documents/P-Hops-upload-2   (78 files)  ← second
+
+On GitHub → Add file → Upload files:
+
+1. Open upload-1, select everything INSIDE it, drag, commit.
+2. Open upload-2, select components + lib + scripts, drag, commit.
+
+Never open app/ or i18n/ and pick the files inside — that flattens the tree
+and Vercel fails with “Could not find i18n config at ./i18n/request.ts”.

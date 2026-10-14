@@ -1,0 +1,206 @@
+[
+ {
+  "id": "esplanade",
+  "name": "Esplanade / Dharmatala",
+  "lat": 22.56329,
+  "lng": 88.35036
+ },
+ {
+  "id": "park-street",
+  "name": "Park Street",
+  "lat": 22.55516,
+  "lng": 88.35012
+ },
+ {
+  "id": "college-street",
+  "name": "College Street",
+  "lat": 22.57453,
+  "lng": 88.36446
+ },
+ {
+  "id": "sealdah",
+  "name": "Sealdah",
+  "lat": 22.56738,
+  "lng": 88.37102
+ },
+ {
+  "id": "howrah-station",
+  "name": "Howrah Station",
+  "lat": 22.58279,
+  "lng": 88.34239
+ },
+ {
+  "id": "shyambazar",
+  "name": "Shyambazar",
+  "lat": 22.60134,
+  "lng": 88.3725
+ },
+ {
+  "id": "hatibagan",
+  "name": "Hatibagan",
+  "lat": 22.59496,
+  "lng": 88.37093
+ },
+ {
+  "id": "bagbazar",
+  "name": "Bagbazar",
+  "lat": 22.60342,
+  "lng": 88.37078
+ },
+ {
+  "id": "sovabazar",
+  "name": "Sovabazar",
+  "lat": 22.59753,
+  "lng": 88.35493
+ },
+ {
+  "id": "ultadanga",
+  "name": "Ultadanga",
+  "lat": 22.60128,
+  "lng": 88.38415
+ },
+ {
+  "id": "park-circus",
+  "name": "Park Circus",
+  "lat": 22.54078,
+  "lng": 88.37388
+ },
+ {
+  "id": "gariahat",
+  "name": "Gariahat",
+  "lat": 22.51948,
+  "lng": 88.36506
+ },
+ {
+  "id": "ballygunge",
+  "name": "Ballygunge",
+  "lat": 22.52803,
+  "lng": 88.36591
+ },
+ {
+  "id": "rashbehari",
+  "name": "Rashbehari / Deshapriya Park",
+  "lat": 22.51844,
+  "lng": 88.35352
+ },
+ {
+  "id": "kalighat",
+  "name": "Kalighat",
+  "lat": 22.51533,
+  "lng": 88.34771
+ },
+ {
+  "id": "bhowanipore",
+  "name": "Bhowanipore",
+  "lat": 22.53258,
+  "lng": 88.34544
+ },
+ {
+  "id": "alipore",
+  "name": "Alipore",
+  "lat": 22.52649,
+  "lng": 88.33237
+ },
+ {
+  "id": "jadavpur",
+  "name": "Jadavpur",
+  "lat": 22.4955,
+  "lng": 88.3709
+ },
+ {
+  "id": "dhakuria",
+  "name": "Dhakuria",
+  "lat": 22.50911,
+  "lng": 88.37113
+ },
+ {
+  "id": "lake-gardens",
+  "name": "Lake Gardens",
+  "lat": 22.50805,
+  "lng": 88.35333
+ },
+ {
+  "id": "kasba",
+  "name": "Kasba",
+  "lat": 22.50444,
+  "lng": 88.37217
+ },
+ {
+  "id": "garia",
+  "name": "Garia",
+  "lat": 22.47266,
+  "lng": 88.39775
+ },
+ {
+  "id": "tollygunge",
+  "name": "Tollygunge",
+  "lat": 22.49864,
+  "lng": 88.34539
+ },
+ {
+  "id": "behala",
+  "name": "Behala",
+  "lat": 22.50157,
+  "lng": 88.32094
+ },
+ {
+  "id": "kidderpore",
+  "name": "Kidderpore",
+  "lat": 22.53538,
+  "lng": 88.32061
+ },
+ {
+  "id": "salt-lake-sector-v",
+  "name": "Salt Lake Sector V",
+  "lat": 22.58094,
+  "lng": 88.42909
+ },
+ {
+  "id": "salt-lake-city-centre",
+  "name": "Salt Lake City Centre",
+  "lat": 22.5871,
+  "lng": 88.40789
+ },
+ {
+  "id": "new-town",
+  "name": "New Town",
+  "lat": 22.57408,
+  "lng": 88.48062
+ },
+ {
+  "id": "lake-town",
+  "name": "Lake Town",
+  "lat": 22.60573,
+  "lng": 88.40296
+ },
+ {
+  "id": "dum-dum",
+  "name": "Dum Dum",
+  "lat": 22.62111,
+  "lng": 88.3929
+ },
+ {
+  "id": "shibpur",
+  "name": "Shibpur (Howrah)",
+  "lat": 22.56858,
+  "lng": 88.29421
+ },
+ {
+  "id": "salkia",
+  "name": "Salkia (Howrah)",
+  "lat": 22.59893,
+  "lng": 88.34757
+ },
+ {
+  "id": "santragachi",
+  "name": "Santragachi (Howrah)",
+  "lat": 22.58221,
+  "lng": 88.27981
+ },
+ {
+  "id": "barisha",
+  "name": "Barisha",
+  "lat": 22.47925,
+  "lng": 88.31185
+ }
+]

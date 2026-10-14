@@ -1,0 +1,50 @@
+{
+  "name": "pujo-guide",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "data:osm": "tsx scripts/fetch-osm.ts",
+    "data:tidy": "tsx scripts/fetch-osm.ts tidy",
+    "typecheck": "tsc --noEmit",
+    "data:pandals": "tsx scripts/build-pandals.ts",
+    "data:areas": "tsx scripts/build-areas.ts",
+    "i18n:check": "tsx scripts/check-messages.ts",
+    "test:location": "tsx scripts/test-location.ts",
+    "data:validate": "tsx scripts/validate-data.ts",
+    "test:logic": "tsx scripts/test-logic.ts",
+    "test:api": "tsx scripts/test-api.ts",
+    "audit:responsive": "tsx scripts/audit-responsive.ts",
+    "audit:lighthouse": "node scripts/audit-lighthouse.mjs",
+    "audit:a11y": "node scripts/audit-a11y.mjs"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.117.3",
+    "leaflet": "^1.9.4",
+    "leaflet.markercluster": "^1.5.3",
+    "next": "16.4.0",
+    "next-intl": "^4.14.9",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-leaflet": "^5.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/turbopack": "^4",
+    "@types/leaflet": "^1.9.22",
+    "@types/leaflet.markercluster": "^1.5.6",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.0",
+    "lighthouse": "^13.5.0",
+    "puppeteer-core": "^25.13.0",
+    "tailwindcss": "^4",
+    "tsx": "^4.23.15",
+    "typescript": "^5",
+    "zod": "^4.6.7"
+  }
+}

@@ -1,0 +1,1133 @@
+{
+ "crowdPatterns": {
+  "mega": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "popular": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "local": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "heritage": {
+   "morning": "medium",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "low"
+  }
+ },
+ "pandals": [
+  {
+   "id": "bagbazar-sarbojanin",
+   "name": "Bagbazar Sarbojanin Durgotsab",
+   "area": "Bagbazar",
+   "zone": "north",
+   "tier": "mega",
+   "tags": [
+    "traditional",
+    "headline"
+   ],
+   "description": "One of North Kolkata's oldest and most visited community pujas, known for a traditional-style idol.",
+   "areaQuery": "Baghbazar",
+   "lat": 22.6033,
+   "lng": 88.368,
+   "precision": "area"
+  },
+  {
+   "id": "kumartuli-park",
+   "name": "Kumartuli Park Sarbojanin",
+   "area": "Kumartuli",
+   "zone": "north",
+   "tier": "mega",
+   "tags": [
+    "traditional",
+    "headline"
+   ],
+   "description": "Set in Kumartuli, the idol-makers' quarter of North Kolkata.",
+   "venueQuery": "Kumartuli Park",
+   "lat": 22.5998,
+   "lng": 88.3612,
+   "precision": "area"
+  },
+  {
+   "id": "ahiritola-sarbojanin",
+   "name": "Ahiritola Sarbojanin",
+   "area": "Ahiritola",
+   "zone": "north",
+   "tier": "popular",
+   "tags": [
+    "traditional"
+   ],
+   "areaQuery": "Ahiritola",
+   "lat": 22.5954,
+   "lng": 88.3554,
+   "precision": "area"
+  },
+  {
+   "id": "hatibagan-sarbojanin",
+   "name": "Hatibagan Sarbojanin",
+   "area": "Hatibagan",
+   "zone": "north",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Hatibagan"
+  },
+  {
+   "id": "hatibagan-nabin-pally",
+   "name": "Hatibagan Nabin Pally",
+   "area": "Hatibagan",
+   "zone": "north",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Hatibagan"
+  },
+  {
+   "id": "nalin-sarkar-street",
+   "name": "Nalin Sarkar Street Sarbojanin",
+   "area": "Hatibagan",
+   "zone": "north",
+   "tier": "mega",
+   "tags": [
+    "theme",
+    "headline"
+   ],
+   "venueQuery": "Nalin Sarkar Street",
+   "areaQuery": "Hatibagan"
+  },
+  {
+   "id": "shobhabazar-rajbari",
+   "name": "Shobhabazar Rajbari (Raja Nabakrishna Deb)",
+   "area": "Shobhabazar",
+   "zone": "north",
+   "tier": "heritage",
+   "tags": [
+    "heritage"
+   ],
+   "theme": "Heritage household (bonedi bari) puja",
+   "description": "Historic household puja of Raja Nabakrishna Deb, dating to 1757 and often cited as an origin of Kolkata's public Durga Puja tradition.",
+   "openingHours": "Typically daytime to early evening (confirm locally)",
+   "areaQuery": "Sovabazar"
+  },
+  {
+   "id": "chhatu-babu-latu-babu-bari",
+   "name": "Chhatu Babu Latu Babu Bari (Ramdulal Nibas)",
+   "area": "Shobhabazar",
+   "zone": "north",
+   "tier": "heritage",
+   "tags": [
+    "heritage"
+   ],
+   "theme": "Heritage household (bonedi bari) puja",
+   "openingHours": "Typically daytime to early evening (confirm locally)",
+   "areaQuery": "Sovabazar"
+  },
+  {
+   "id": "shibkrishna-daw-bari",
+   "name": "Shibkrishna Daw Bari (Jorasanko)",
+   "area": "Jorasanko",
+   "zone": "north",
+   "tier": "heritage",
+   "tags": [
+    "heritage"
+   ],
+   "theme": "Heritage household (bonedi bari) puja",
+   "openingHours": "Typically daytime to early evening (confirm locally)",
+   "areaQuery": "Jorasanko"
+  },
+  {
+   "id": "jagat-mukherjee-park",
+   "name": "Jagat Mukherjee Park Sadharan Durgotsab",
+   "area": "Shobhabazar",
+   "zone": "north",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "venueQuery": "Jagat Mukherjee Park",
+   "areaQuery": "Sovabazar"
+  },
+  {
+   "id": "shyambazar-nabin-sangha",
+   "name": "Shyambazar Nabin Sangha",
+   "area": "Shyambazar",
+   "zone": "north",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Shyambazar"
+  },
+  {
+   "id": "simla-byayam-samity",
+   "name": "Simla Byayam Samity",
+   "area": "Simla",
+   "zone": "north",
+   "tier": "popular",
+   "tags": [
+    "traditional"
+   ],
+   "venueQuery": "Simla Byayam Samity",
+   "areaQuery": "Simla Street"
+  },
+  {
+   "id": "telengabagan-sarbojanin",
+   "name": "Telengabagan Sarbojanin",
+   "area": "Telengabagan",
+   "zone": "north",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Telengabagan",
+   "lat": 22.5949,
+   "lng": 88.3854,
+   "precision": "area"
+  },
+  {
+   "id": "tala-prattoy",
+   "name": "Tala Prattoy",
+   "area": "Tala",
+   "zone": "north",
+   "tier": "mega",
+   "tags": [
+    "theme",
+    "headline"
+   ],
+   "venueQuery": "Tala Park",
+   "areaQuery": "Tala"
+  },
+  {
+   "id": "tala-barowari",
+   "name": "Tala Barowari Durgotsab",
+   "area": "Tala",
+   "zone": "north",
+   "tier": "local",
+   "tags": [
+    "traditional"
+   ],
+   "venueQuery": "Tala Park",
+   "areaQuery": "Tala"
+  },
+  {
+   "id": "baranagar-friends",
+   "name": "Baranagar Friend's Association",
+   "area": "Baranagar",
+   "zone": "north",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Baranagar"
+  },
+  {
+   "id": "haritaki-bagan",
+   "name": "Haritaki Bagan Sarbojanin Durgotsab",
+   "area": "Manicktala",
+   "zone": "north",
+   "tier": "local",
+   "tags": [
+    "traditional"
+   ],
+   "description": "Community puja in Manicktala, established 1936 according to its committee.",
+   "areaQuery": "Maniktala"
+  },
+  {
+   "id": "sikdar-bagan",
+   "name": "Sikdar Bagan Sadharan Durgotsav",
+   "area": "Sikdar Bagan",
+   "zone": "north",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Maniktala"
+  },
+  {
+   "id": "baghbazar-7-pally",
+   "name": "Baghbazar 7 Pally Sarbojanin",
+   "area": "Bagbazar",
+   "zone": "north",
+   "tier": "local",
+   "tags": [
+    "traditional"
+   ],
+   "areaQuery": "Baghbazar",
+   "lat": 22.603,
+   "lng": 88.3672,
+   "precision": "area"
+  },
+  {
+   "id": "north-tridhara",
+   "name": "North Tridhara Sarbojanin",
+   "area": "Shyambazar",
+   "zone": "north",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Shyambazar"
+  },
+  {
+   "id": "ultadanga-pallyshree",
+   "name": "Ultadanga Pallyshree",
+   "area": "Ultadanga",
+   "zone": "north",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Ultadanga"
+  },
+  {
+   "id": "college-square",
+   "name": "College Square Sarbojanin",
+   "area": "College Street",
+   "zone": "central",
+   "tier": "mega",
+   "tags": [
+    "theme",
+    "headline"
+   ],
+   "description": "Park-side puja on College Street, among the city's best-known central pandals.",
+   "venueQuery": "College Square"
+  },
+  {
+   "id": "santosh-mitra-square",
+   "name": "Santosh Mitra Square (Lebutala Park)",
+   "area": "Sealdah / Lebutala",
+   "zone": "central",
+   "tier": "mega",
+   "tags": [
+    "theme",
+    "headline"
+   ],
+   "venueQuery": "Santosh Mitra Square"
+  },
+  {
+   "id": "mohammad-ali-park",
+   "name": "Mohammad Ali Park",
+   "area": "Mohammad Ali Park",
+   "zone": "central",
+   "tier": "mega",
+   "tags": [
+    "theme",
+    "headline"
+   ],
+   "venueQuery": "Mohammad Ali Park"
+  },
+  {
+   "id": "kashi-bose-lane",
+   "name": "Kashi Bose Lane Sarbojanin",
+   "area": "Kashi Bose Lane",
+   "zone": "central",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "venueQuery": "Kashi Bose Lane"
+  },
+  {
+   "id": "taltala-sarbojanin",
+   "name": "Taltala Sarbojanin",
+   "area": "Taltala",
+   "zone": "central",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Taltala",
+   "lat": 22.5545,
+   "lng": 88.3622,
+   "precision": "venue"
+  },
+  {
+   "id": "ekdalia-evergreen",
+   "name": "Ekdalia Evergreen Club",
+   "area": "Gariahat / Ekdalia",
+   "zone": "south",
+   "tier": "mega",
+   "tags": [
+    "theme",
+    "headline"
+   ],
+   "venueQuery": "Ekdalia Evergreen Club",
+   "areaQuery": "Ekdalia"
+  },
+  {
+   "id": "singhi-park",
+   "name": "Singhi Park Sarbojanin",
+   "area": "Gariahat / Ballygunge",
+   "zone": "south",
+   "tier": "mega",
+   "tags": [
+    "theme",
+    "headline"
+   ],
+   "venueQuery": "Singhi Park",
+   "areaQuery": "Ballygunge"
+  },
+  {
+   "id": "maddox-square",
+   "name": "Maddox Square",
+   "area": "Gariahat / Hazra",
+   "zone": "south",
+   "tier": "mega",
+   "tags": [
+    "theme",
+    "headline"
+   ],
+   "description": "Park-side puja between Gariahat and Hazra; one of South Kolkata's headline pujas.",
+   "venueQuery": "Maddox Square"
+  },
+  {
+   "id": "deshapriya-park",
+   "name": "Deshapriya Park Sarbojanin",
+   "area": "Rashbehari / Hazra",
+   "zone": "south",
+   "tier": "mega",
+   "tags": [
+    "theme",
+    "headline"
+   ],
+   "description": "Large-park puja near Rashbehari/Hazra; a staple of South Kolkata pandal-hopping.",
+   "venueQuery": "Deshapriya Park"
+  },
+  {
+   "id": "chetla-agrani",
+   "name": "Chetla Agrani Club",
+   "area": "Chetla",
+   "zone": "south",
+   "tier": "mega",
+   "tags": [
+    "theme",
+    "headline"
+   ],
+   "venueQuery": "Chetla Agrani Club",
+   "areaQuery": "Chetla"
+  },
+  {
+   "id": "badamtala-ashar-sangha",
+   "name": "Badamtala Ashar Sangha",
+   "area": "Kalighat",
+   "zone": "south",
+   "tier": "mega",
+   "tags": [
+    "theme",
+    "headline"
+   ],
+   "venueQuery": "Badamtala Ashar Sangha",
+   "areaQuery": "Kalighat"
+  },
+  {
+   "id": "suruchi-sangha",
+   "name": "Suruchi Sangha",
+   "area": "Lake Gardens / New Alipore",
+   "zone": "south",
+   "tier": "mega",
+   "tags": [
+    "theme",
+    "headline"
+   ],
+   "venueQuery": "Suruchi Sangha",
+   "areaQuery": "Lake Gardens"
+  },
+  {
+   "id": "tridhara-sammilani",
+   "name": "Tridhara Sammilani",
+   "area": "Gariahat",
+   "zone": "south",
+   "tier": "mega",
+   "tags": [
+    "theme",
+    "headline"
+   ],
+   "venueQuery": "Tridhara Sammilani",
+   "areaQuery": "Gariahat"
+  },
+  {
+   "id": "66-pally",
+   "name": "66 Pally",
+   "area": "Gariahat / Kalighat",
+   "zone": "south",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Kalighat"
+  },
+  {
+   "id": "mudiali-club",
+   "name": "Mudiali Club",
+   "area": "Lake Gardens / Mudiali",
+   "zone": "south",
+   "tier": "mega",
+   "tags": [
+    "theme",
+    "headline"
+   ],
+   "venueQuery": "Mudiali Club",
+   "areaQuery": "Mudiali"
+  },
+  {
+   "id": "ballygunge-cultural",
+   "name": "Ballygunge Cultural Association",
+   "area": "Jodhpur Park / Ballygunge",
+   "zone": "south",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "venueQuery": "Ballygunge Cultural Association",
+   "areaQuery": "Jodhpur Park"
+  },
+  {
+   "id": "hindustan-club",
+   "name": "Hindustan Club",
+   "area": "Gariahat / Hindustan Park",
+   "zone": "south",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "venueQuery": "Hindustan Club",
+   "areaQuery": "Hindustan Park"
+  },
+  {
+   "id": "hindustan-park",
+   "name": "Hindustan Park Sarbojanin",
+   "area": "Gariahat / Hindustan Park",
+   "zone": "south",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Hindustan Park"
+  },
+  {
+   "id": "jodhpur-park",
+   "name": "Jodhpur Park Sarbojanin",
+   "area": "Jodhpur Park",
+   "zone": "south",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Jodhpur Park"
+  },
+  {
+   "id": "jodhpur-park-95-pally",
+   "name": "Jodhpur Park 95 Pally",
+   "area": "Jodhpur Park",
+   "zone": "south",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Jodhpur Park"
+  },
+  {
+   "id": "abasarika-club",
+   "name": "Abasarika Club",
+   "area": "Dhakuria",
+   "zone": "south",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Dhakuria"
+  },
+  {
+   "id": "bakul-bagan",
+   "name": "Bakulbagan Sarbojanin",
+   "area": "Bhowanipore / Bakul Bagan",
+   "zone": "south",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Bakul Bagan"
+  },
+  {
+   "id": "bhowanipore-75-pally",
+   "name": "Bhowanipore 75 Pally",
+   "area": "Bhowanipore",
+   "zone": "south",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Bhowanipore"
+  },
+  {
+   "id": "chakraberia-sarbojanin",
+   "name": "Chakraberia Sarbojanin",
+   "area": "Bhowanipore / Chakraberia",
+   "zone": "south",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Chakraberia"
+  },
+  {
+   "id": "kalighat-milan-sangha",
+   "name": "Kalighat Milan Sangha",
+   "area": "Kalighat",
+   "zone": "south",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "venueQuery": "Kalighat Milan Sangha",
+   "areaQuery": "Kalighat"
+  },
+  {
+   "id": "hazra-park",
+   "name": "Hazra Park Durgotsab",
+   "area": "Hazra",
+   "zone": "south",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "venueQuery": "Hazra Park",
+   "areaQuery": "Hazra"
+  },
+  {
+   "id": "64-pally",
+   "name": "64 Pally Durgotsav Committee",
+   "area": "Hazra",
+   "zone": "south",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Hazra"
+  },
+  {
+   "id": "lake-gardens-peoples",
+   "name": "Lake Gardens People's Association",
+   "area": "Lake Gardens",
+   "zone": "south",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Lake Gardens"
+  },
+  {
+   "id": "bosepukur-sitala-mandir",
+   "name": "Kasba Bosepukur Sitala Mandir",
+   "area": "Kasba",
+   "zone": "south",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "venueQuery": "Bosepukur Sitala Mandir",
+   "areaQuery": "Kasba"
+  },
+  {
+   "id": "bosepukur-talbagan",
+   "name": "Bosepukur Talbagan",
+   "area": "Kasba",
+   "zone": "south",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Kasba"
+  },
+  {
+   "id": "santoshpur-lake-pally",
+   "name": "Santoshpur Lake Pally",
+   "area": "Santoshpur",
+   "zone": "south",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Santoshpur"
+  },
+  {
+   "id": "santoshpur-trikon-park",
+   "name": "Santoshpur Trikon Park",
+   "area": "Santoshpur",
+   "zone": "south",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Santoshpur"
+  },
+  {
+   "id": "selimpur-pally",
+   "name": "Selimpur Pally",
+   "area": "Selimpur",
+   "zone": "south",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Selimpur"
+  },
+  {
+   "id": "alipore-sarbojanin",
+   "name": "Alipore Sarbojanin",
+   "area": "Alipore",
+   "zone": "south",
+   "tier": "local",
+   "tags": [
+    "traditional"
+   ],
+   "areaQuery": "Alipore"
+  },
+  {
+   "id": "kidderpore-sarbojanin",
+   "name": "Kidderpore Sarbojanin",
+   "area": "Kidderpore",
+   "zone": "south",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Kidderpore"
+  },
+  {
+   "id": "naktala-udayan-sangha",
+   "name": "Naktala Udayan Sangha",
+   "area": "Naktala",
+   "zone": "behala",
+   "tier": "mega",
+   "tags": [
+    "theme",
+    "headline"
+   ],
+   "description": "Well-known Naktala/Garia puja, founded 1986 by committee records.",
+   "venueQuery": "Naktala Udayan Sangha",
+   "areaQuery": "Naktala"
+  },
+  {
+   "id": "tollygunge-agragami",
+   "name": "Tollygunge Agragami",
+   "area": "Tollygunge",
+   "zone": "behala",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Tollygunge"
+  },
+  {
+   "id": "behala-natun-dal",
+   "name": "Behala Natun Dal",
+   "area": "Behala",
+   "zone": "behala",
+   "tier": "mega",
+   "tags": [
+    "theme",
+    "headline"
+   ],
+   "description": "One of Behala's headline theme pujas near Behala Bazar.",
+   "areaQuery": "Behala Bazar"
+  },
+  {
+   "id": "barisha-club",
+   "name": "Barisha Club",
+   "area": "Barisha",
+   "zone": "behala",
+   "tier": "mega",
+   "tags": [
+    "theme",
+    "headline"
+   ],
+   "description": "Behala's southern anchor, known for detailed art-installation pandals.",
+   "venueQuery": "Barisha Club",
+   "areaQuery": "Barisha"
+  },
+  {
+   "id": "behala-club",
+   "name": "Behala Club",
+   "area": "Behala",
+   "zone": "behala",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Behala"
+  },
+  {
+   "id": "behala-11-pally",
+   "name": "Behala 11 Pally",
+   "area": "Behala",
+   "zone": "behala",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Behala"
+  },
+  {
+   "id": "behala-debdaru-fatak",
+   "name": "Behala Debdaru Fatak",
+   "area": "Behala",
+   "zone": "behala",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Behala"
+  },
+  {
+   "id": "acharya-prafulla-sangha",
+   "name": "Acharya Prafulla Sangha (Behala)",
+   "area": "Behala",
+   "zone": "behala",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Behala"
+  },
+  {
+   "id": "behala-29-palli",
+   "name": "Behala 29 Palli",
+   "area": "Behala",
+   "zone": "behala",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Behala"
+  },
+  {
+   "id": "behala-friends",
+   "name": "Behala Friends",
+   "area": "Behala",
+   "zone": "behala",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Behala"
+  },
+  {
+   "id": "barisha-sarbojanin",
+   "name": "Barisha Sarbojanin",
+   "area": "Barisha",
+   "zone": "behala",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Barisha",
+   "lat": 22.4792,
+   "lng": 88.3118,
+   "precision": "area"
+  },
+  {
+   "id": "41-pally-haridevpur",
+   "name": "41 Pally Club (Haridevpur)",
+   "area": "Haridevpur",
+   "zone": "behala",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Haridevpur"
+  },
+  {
+   "id": "thakurpukur-sb-park",
+   "name": "Thakurpukur SB Park Sarbojanin",
+   "area": "Thakurpukur",
+   "zone": "behala",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Thakurpukur"
+  },
+  {
+   "id": "sabarna-roy-choudhury-bari",
+   "name": "Sabarna Roy Choudhury Bari (Barisha)",
+   "area": "Barisha",
+   "zone": "behala",
+   "tier": "heritage",
+   "tags": [
+    "heritage"
+   ],
+   "theme": "Heritage household (bonedi bari) puja",
+   "description": "Centuries-old family puja of the Sabarna Roy Choudhury family in Barisha.",
+   "openingHours": "Typically daytime to early evening (confirm locally)",
+   "areaQuery": "Barisha",
+   "lat": 22.4792,
+   "lng": 88.3118,
+   "precision": "area"
+  },
+  {
+   "id": "fd-block",
+   "name": "FD Block Durgotsab (Salt Lake)",
+   "area": "Salt Lake Sector III",
+   "zone": "saltlake",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "FD Block, Salt Lake"
+  },
+  {
+   "id": "bj-block",
+   "name": "BJ Block Durgotsab (Salt Lake)",
+   "area": "Salt Lake Sector II",
+   "zone": "saltlake",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "BJ Block, Salt Lake"
+  },
+  {
+   "id": "ae-block",
+   "name": "AE Block Durgotsab (Salt Lake)",
+   "area": "Salt Lake Sector I",
+   "zone": "saltlake",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "AE Block, Salt Lake"
+  },
+  {
+   "id": "bd-block",
+   "name": "BD Block Durgotsab (Salt Lake)",
+   "area": "Salt Lake Sector I",
+   "zone": "saltlake",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "BD Block, Salt Lake"
+  },
+  {
+   "id": "ck-cl-block",
+   "name": "CK-CL Block Durgotsab (Salt Lake)",
+   "area": "Salt Lake Sector II",
+   "zone": "saltlake",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "CK Block, Salt Lake"
+  },
+  {
+   "id": "ec-block",
+   "name": "EC Block Durgotsab (Salt Lake)",
+   "area": "Salt Lake Sector I",
+   "zone": "saltlake",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "EC Block, Salt Lake"
+  },
+  {
+   "id": "purbachal-sarbojanin",
+   "name": "Purbachal Sarbojanin (Salt Lake)",
+   "area": "Salt Lake Sector III",
+   "zone": "saltlake",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Purbachal, Salt Lake"
+  },
+  {
+   "id": "new-town-sarbojanin",
+   "name": "New Town Sarbojanin Durgotsav",
+   "area": "New Town",
+   "zone": "saltlake",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "New Town Action Area I"
+  },
+  {
+   "id": "kestopur-prafulla-kanan",
+   "name": "Kestopur Prafulla Kanan Paschim Adhibasi Brinda",
+   "area": "Kestopur",
+   "zone": "saltlake",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Kestopur"
+  },
+  {
+   "id": "arjunpur-amra-sabai",
+   "name": "Arjunpur Amra Sabai Club",
+   "area": "Baguiati / New Town",
+   "zone": "saltlake",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Baguiati"
+  },
+  {
+   "id": "sreebhumi-sporting",
+   "name": "Sreebhumi Sporting Club",
+   "area": "Lake Town",
+   "zone": "east",
+   "tier": "mega",
+   "tags": [
+    "theme",
+    "headline"
+   ],
+   "description": "Lake Town's headline puja, famed for large theme pandals and long queues.",
+   "venueQuery": "Sreebhumi Sporting Club",
+   "areaQuery": "Lake Town"
+  },
+  {
+   "id": "lake-town-adhibasi-brinda",
+   "name": "Lake Town Adhibasi Brinda",
+   "area": "Lake Town",
+   "zone": "east",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Lake Town"
+  },
+  {
+   "id": "dum-dum-park-bharat-chakra",
+   "name": "Dum Dum Park Bharat Chakra",
+   "area": "Dum Dum Park",
+   "zone": "east",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Dum Dum Park",
+   "lat": 22.6114,
+   "lng": 88.4102,
+   "precision": "area"
+  },
+  {
+   "id": "salkia-barowari",
+   "name": "Salkia Durgotsav Barowari",
+   "area": "Salkia",
+   "zone": "howrah",
+   "tier": "popular",
+   "tags": [
+    "traditional"
+   ],
+   "description": "Heritage community puja in Salkia, reported to date back to 1872, known for a traditional (sabeki) idol.",
+   "areaQuery": "Salkia"
+  },
+  {
+   "id": "salkia-61-pally",
+   "name": "Salkia 61 Pally Sarbojanin",
+   "area": "Salkia",
+   "zone": "howrah",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Salkia"
+  },
+  {
+   "id": "pally-mangal-club-salkia",
+   "name": "Pally Mangal Club (Salkia)",
+   "area": "Salkia",
+   "zone": "howrah",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Salkia"
+  },
+  {
+   "id": "shibpur-bati-sangha",
+   "name": "Shibpur Bati Sangha",
+   "area": "Shibpur",
+   "zone": "howrah",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Shibpur"
+  },
+  {
+   "id": "santragachi-sporting",
+   "name": "Santragachi Sporting Club",
+   "area": "Santragachi",
+   "zone": "howrah",
+   "tier": "popular",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Santragachi"
+  },
+  {
+   "id": "bantra-nabin-sangha",
+   "name": "Bantra Nabin Sangha",
+   "area": "Bantra",
+   "zone": "howrah",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Bantra"
+  },
+  {
+   "id": "bally-deshbandhu",
+   "name": "Bally Deshbandhu Club",
+   "area": "Bally",
+   "zone": "howrah",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Bally, Howrah"
+  },
+  {
+   "id": "bally-juba-sangha",
+   "name": "Bally Juba Sangha Kali Mandir",
+   "area": "Bally / Belur",
+   "zone": "howrah",
+   "tier": "local",
+   "tags": [
+    "theme"
+   ],
+   "areaQuery": "Belur, Howrah"
+  },
+  {
+   "id": "andul-rajbari",
+   "name": "Andul Rajbari",
+   "area": "Andul",
+   "zone": "howrah",
+   "tier": "heritage",
+   "tags": [
+    "heritage"
+   ],
+   "theme": "Heritage household (bonedi bari) puja",
+   "description": "Heritage family puja across the river in Andul, Howrah.",
+   "openingHours": "Typically daytime to early evening (confirm locally)",
+   "areaQuery": "Andul"
+  }
+ ]
+}

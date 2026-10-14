@@ -1,0 +1,1886 @@
+[
+ {
+  "id": "bagbazar-sarbojanin",
+  "name": "Bagbazar Sarbojanin Durgotsab",
+  "area": "Bagbazar",
+  "zone": "north",
+  "lat": 22.6033,
+  "lng": 88.368,
+  "locationPrecision": "area",
+  "description": "One of North Kolkata's oldest and most visited community pujas, known for a traditional-style idol.",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "traditional",
+   "headline"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: manual coordinates in seed (checked against OSM place/street search); crowdByTimeSlot: editorial estimate for tier \"mega\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "kumartuli-park",
+  "name": "Kumartuli Park Sarbojanin",
+  "area": "Kumartuli",
+  "zone": "north",
+  "lat": 22.5998,
+  "lng": 88.3612,
+  "locationPrecision": "area",
+  "description": "Set in Kumartuli, the idol-makers' quarter of North Kolkata.",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "traditional",
+   "headline"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: manual coordinates in seed (checked against OSM place/street search); crowdByTimeSlot: editorial estimate for tier \"mega\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "ahiritola-sarbojanin",
+  "name": "Ahiritola Sarbojanin",
+  "area": "Ahiritola",
+  "zone": "north",
+  "lat": 22.5954,
+  "lng": 88.3554,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "traditional"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: manual coordinates in seed (checked against OSM place/street search); crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "hatibagan-sarbojanin",
+  "name": "Hatibagan Sarbojanin",
+  "area": "Hatibagan",
+  "zone": "north",
+  "lat": 22.59496,
+  "lng": 88.37093,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Hatibagan\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "hatibagan-nabin-pally",
+  "name": "Hatibagan Nabin Pally",
+  "area": "Hatibagan",
+  "zone": "north",
+  "lat": 22.59496,
+  "lng": 88.37093,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Hatibagan\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "nalin-sarkar-street",
+  "name": "Nalin Sarkar Street Sarbojanin",
+  "area": "Hatibagan",
+  "zone": "north",
+  "lat": 22.59535,
+  "lng": 88.3734,
+  "locationPrecision": "venue",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme",
+   "headline"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Nalin Sarkar Street\" -> Nalin Sarkar Street Durgotsav, Nalani Sarkar Street, Shyam Bazar, Kolkata, Kolkata Metropo; crowdByTimeSlot: editorial estimate for tier \"mega\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "shobhabazar-rajbari",
+  "name": "Shobhabazar Rajbari (Raja Nabakrishna Deb)",
+  "area": "Shobhabazar",
+  "zone": "north",
+  "lat": 22.59753,
+  "lng": 88.35493,
+  "locationPrecision": "area",
+  "theme": "Heritage household (bonedi bari) puja",
+  "description": "Historic household puja of Raja Nabakrishna Deb, dating to 1757 and often cited as an origin of Kolkata's public Durga Puja tradition.",
+  "openingHours": "Typically daytime to early evening (confirm locally)",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "low"
+  },
+  "tags": [
+   "heritage"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Sovabazar\"; crowdByTimeSlot: editorial estimate for tier \"heritage\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "chhatu-babu-latu-babu-bari",
+  "name": "Chhatu Babu Latu Babu Bari (Ramdulal Nibas)",
+  "area": "Shobhabazar",
+  "zone": "north",
+  "lat": 22.59753,
+  "lng": 88.35493,
+  "locationPrecision": "area",
+  "theme": "Heritage household (bonedi bari) puja",
+  "openingHours": "Typically daytime to early evening (confirm locally)",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "low"
+  },
+  "tags": [
+   "heritage"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Sovabazar\"; crowdByTimeSlot: editorial estimate for tier \"heritage\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "shibkrishna-daw-bari",
+  "name": "Shibkrishna Daw Bari (Jorasanko)",
+  "area": "Jorasanko",
+  "zone": "north",
+  "lat": 22.58341,
+  "lng": 88.35625,
+  "locationPrecision": "area",
+  "theme": "Heritage household (bonedi bari) puja",
+  "openingHours": "Typically daytime to early evening (confirm locally)",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "low"
+  },
+  "tags": [
+   "heritage"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Jorasanko\"; crowdByTimeSlot: editorial estimate for tier \"heritage\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "jagat-mukherjee-park",
+  "name": "Jagat Mukherjee Park Sadharan Durgotsab",
+  "area": "Shobhabazar",
+  "zone": "north",
+  "lat": 22.60131,
+  "lng": 88.36665,
+  "locationPrecision": "venue",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Jagat Mukherjee Park\" -> Jagat Mukherjee Park, Bag Bazar, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal,; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "shyambazar-nabin-sangha",
+  "name": "Shyambazar Nabin Sangha",
+  "area": "Shyambazar",
+  "zone": "north",
+  "lat": 22.60134,
+  "lng": 88.3725,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Shyambazar\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "simla-byayam-samity",
+  "name": "Simla Byayam Samity",
+  "area": "Simla",
+  "zone": "north",
+  "lat": 22.58892,
+  "lng": 88.37018,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "traditional"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Simla Street\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "telengabagan-sarbojanin",
+  "name": "Telengabagan Sarbojanin",
+  "area": "Telengabagan",
+  "zone": "north",
+  "lat": 22.5949,
+  "lng": 88.3854,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: manual coordinates in seed (checked against OSM place/street search); crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "tala-prattoy",
+  "name": "Tala Prattoy",
+  "area": "Tala",
+  "zone": "north",
+  "lat": 22.61167,
+  "lng": 88.38419,
+  "locationPrecision": "venue",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme",
+   "headline"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Tala Park\" -> Tala Park, Paikpara, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, India; crowdByTimeSlot: editorial estimate for tier \"mega\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "tala-barowari",
+  "name": "Tala Barowari Durgotsab",
+  "area": "Tala",
+  "zone": "north",
+  "lat": 22.61167,
+  "lng": 88.38419,
+  "locationPrecision": "venue",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "traditional"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Tala Park\" -> Tala Park, Paikpara, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, India; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "baranagar-friends",
+  "name": "Baranagar Friend's Association",
+  "area": "Baranagar",
+  "zone": "north",
+  "lat": 22.65308,
+  "lng": 88.3806,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Baranagar\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "haritaki-bagan",
+  "name": "Haritaki Bagan Sarbojanin Durgotsab",
+  "area": "Manicktala",
+  "zone": "north",
+  "lat": 22.58809,
+  "lng": 88.38528,
+  "locationPrecision": "area",
+  "description": "Community puja in Manicktala, established 1936 according to its committee.",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "traditional"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Maniktala\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "sikdar-bagan",
+  "name": "Sikdar Bagan Sadharan Durgotsav",
+  "area": "Sikdar Bagan",
+  "zone": "north",
+  "lat": 22.58809,
+  "lng": 88.38528,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Maniktala\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "baghbazar-7-pally",
+  "name": "Baghbazar 7 Pally Sarbojanin",
+  "area": "Bagbazar",
+  "zone": "north",
+  "lat": 22.603,
+  "lng": 88.3672,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "traditional"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: manual coordinates in seed (checked against OSM place/street search); crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "north-tridhara",
+  "name": "North Tridhara Sarbojanin",
+  "area": "Shyambazar",
+  "zone": "north",
+  "lat": 22.60134,
+  "lng": 88.3725,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Shyambazar\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "ultadanga-pallyshree",
+  "name": "Ultadanga Pallyshree",
+  "area": "Ultadanga",
+  "zone": "north",
+  "lat": 22.60128,
+  "lng": 88.38415,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Ultadanga\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "college-square",
+  "name": "College Square Sarbojanin",
+  "area": "College Street",
+  "zone": "central",
+  "lat": 22.57453,
+  "lng": 88.36446,
+  "locationPrecision": "venue",
+  "description": "Park-side puja on College Street, among the city's best-known central pandals.",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme",
+   "headline"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"College Square\" -> College Square, Bankim Chatterjee Street, Bow Bazar North, Kolkata, Kolkata Metropolitan A; crowdByTimeSlot: editorial estimate for tier \"mega\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "santosh-mitra-square",
+  "name": "Santosh Mitra Square (Lebutala Park)",
+  "area": "Sealdah / Lebutala",
+  "zone": "central",
+  "lat": 22.56586,
+  "lng": 88.36554,
+  "locationPrecision": "venue",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme",
+   "headline"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Santosh Mitra Square\" -> Santosh Mitra Square, Chandni Chowk East, Kolkata, Kolkata Metropolitan Area, Kolkata, Wes; crowdByTimeSlot: editorial estimate for tier \"mega\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "mohammad-ali-park",
+  "name": "Mohammad Ali Park",
+  "area": "Mohammad Ali Park",
+  "zone": "central",
+  "lat": 22.57724,
+  "lng": 88.36074,
+  "locationPrecision": "venue",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme",
+   "headline"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Mohammad Ali Park\" -> Mohammad Ali Park, Chittaranjan Avenue, Tiretta Bazaar, Central Avenue 2, Kolkata, Kolkata; crowdByTimeSlot: editorial estimate for tier \"mega\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "kashi-bose-lane",
+  "name": "Kashi Bose Lane Sarbojanin",
+  "area": "Kashi Bose Lane",
+  "zone": "central",
+  "lat": 22.59101,
+  "lng": 88.36896,
+  "locationPrecision": "venue",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Kashi Bose Lane\" -> Kashi Bose Lane, Bidhan Sarani, Shobha Bazar East, Kolkata, Kolkata Metropolitan Area, Kol; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "taltala-sarbojanin",
+  "name": "Taltala Sarbojanin",
+  "area": "Taltala",
+  "zone": "central",
+  "lat": 22.5545,
+  "lng": 88.3622,
+  "locationPrecision": "venue",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: manual coordinates in seed (checked against OSM place/street search); crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "ekdalia-evergreen",
+  "name": "Ekdalia Evergreen Club",
+  "area": "Gariahat / Ekdalia",
+  "zone": "south",
+  "lat": 22.52099,
+  "lng": 88.3687,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme",
+   "headline"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Ekdalia\"; crowdByTimeSlot: editorial estimate for tier \"mega\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "singhi-park",
+  "name": "Singhi Park Sarbojanin",
+  "area": "Gariahat / Ballygunge",
+  "zone": "south",
+  "lat": 22.52122,
+  "lng": 88.36301,
+  "locationPrecision": "venue",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme",
+   "headline"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Singhi Park\" -> Singhi Park Durgotsav, Dover Lane, Ballygunge, Kolkata, Kolkata Metropolitan Area, Kolkata; crowdByTimeSlot: editorial estimate for tier \"mega\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "maddox-square",
+  "name": "Maddox Square",
+  "area": "Gariahat / Hazra",
+  "zone": "south",
+  "lat": 22.5263,
+  "lng": 88.35466,
+  "locationPrecision": "venue",
+  "description": "Park-side puja between Gariahat and Hazra; one of South Kolkata's headline pujas.",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme",
+   "headline"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Maddox Square\" -> Maddox Square, Hazra, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, India; crowdByTimeSlot: editorial estimate for tier \"mega\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "deshapriya-park",
+  "name": "Deshapriya Park Sarbojanin",
+  "area": "Rashbehari / Hazra",
+  "zone": "south",
+  "lat": 22.51844,
+  "lng": 88.35352,
+  "locationPrecision": "venue",
+  "description": "Large-park puja near Rashbehari/Hazra; a staple of South Kolkata pandal-hopping.",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme",
+   "headline"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Deshapriya Park\" -> Deshapriya Park, Manoharpukur, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, I; crowdByTimeSlot: editorial estimate for tier \"mega\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "chetla-agrani",
+  "name": "Chetla Agrani Club",
+  "area": "Chetla",
+  "zone": "south",
+  "lat": 22.51645,
+  "lng": 88.33713,
+  "locationPrecision": "venue",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme",
+   "headline"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Chetla Agrani Club\" -> Chetla Agrani Club, Peary Mohan Roy Road, Alipore, Kolkata, Kolkata Metropolitan Area, Kol; crowdByTimeSlot: editorial estimate for tier \"mega\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "badamtala-ashar-sangha",
+  "name": "Badamtala Ashar Sangha",
+  "area": "Kalighat",
+  "zone": "south",
+  "lat": 22.51793,
+  "lng": 88.34416,
+  "locationPrecision": "venue",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme",
+   "headline"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Badamtala Ashar Sangha\" -> Badamtala Ashar Sangha Durgotsav, Nepal Battacharjee Street, Kalighat, Kolkata, Kolkata Me; crowdByTimeSlot: editorial estimate for tier \"mega\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "suruchi-sangha",
+  "name": "Suruchi Sangha",
+  "area": "Lake Gardens / New Alipore",
+  "zone": "south",
+  "lat": 22.5091,
+  "lng": 88.33418,
+  "locationPrecision": "venue",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme",
+   "headline"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Suruchi Sangha\" -> Suruchi Sangha, Station Road, New Alipore, Kolkata, Kolkata Metropolitan Area, Kolkata, We; crowdByTimeSlot: editorial estimate for tier \"mega\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "tridhara-sammilani",
+  "name": "Tridhara Sammilani",
+  "area": "Gariahat",
+  "zone": "south",
+  "lat": 22.51958,
+  "lng": 88.35535,
+  "locationPrecision": "venue",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme",
+   "headline"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Tridhara Sammilani\" -> Tridhara Sammilani, Aswini Dutta Road, Manoharpukur, Kolkata, Kolkata Metropolitan Area, K; crowdByTimeSlot: editorial estimate for tier \"mega\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "66-pally",
+  "name": "66 Pally",
+  "area": "Gariahat / Kalighat",
+  "zone": "south",
+  "lat": 22.51533,
+  "lng": 88.34771,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Kalighat\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "mudiali-club",
+  "name": "Mudiali Club",
+  "area": "Lake Gardens / Mudiali",
+  "zone": "south",
+  "lat": 22.51007,
+  "lng": 88.34663,
+  "locationPrecision": "venue",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme",
+   "headline"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Mudiali Club\" -> Mudiali Club, SR Das Road, Kalighat, Kolkata, Kolkata Metropolitan Area, Kolkata, West Ben; crowdByTimeSlot: editorial estimate for tier \"mega\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "ballygunge-cultural",
+  "name": "Ballygunge Cultural Association",
+  "area": "Jodhpur Park / Ballygunge",
+  "zone": "south",
+  "lat": 22.51588,
+  "lng": 88.35582,
+  "locationPrecision": "venue",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Ballygunge Cultural Association\" -> Ballygunge Cultural Association, Lake View Road, Manoharpukur, Kolkata, Kolkata Metropolit; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "hindustan-club",
+  "name": "Hindustan Club",
+  "area": "Gariahat / Hindustan Park",
+  "zone": "south",
+  "lat": 22.51951,
+  "lng": 88.36059,
+  "locationPrecision": "venue",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Hindustan Club\" -> Hindustan Club, Ramani Chatterji Road, Ballygunge, Kolkata, Kolkata Metropolitan Area, Kol; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "hindustan-park",
+  "name": "Hindustan Park Sarbojanin",
+  "area": "Gariahat / Hindustan Park",
+  "zone": "south",
+  "lat": 22.51769,
+  "lng": 88.36334,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Hindustan Park\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "jodhpur-park",
+  "name": "Jodhpur Park Sarbojanin",
+  "area": "Jodhpur Park",
+  "zone": "south",
+  "lat": 22.50561,
+  "lng": 88.36367,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Jodhpur Park\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "jodhpur-park-95-pally",
+  "name": "Jodhpur Park 95 Pally",
+  "area": "Jodhpur Park",
+  "zone": "south",
+  "lat": 22.50561,
+  "lng": 88.36367,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Jodhpur Park\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "abasarika-club",
+  "name": "Abasarika Club",
+  "area": "Dhakuria",
+  "zone": "south",
+  "lat": 22.50911,
+  "lng": 88.37113,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Dhakuria\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "bakul-bagan",
+  "name": "Bakulbagan Sarbojanin",
+  "area": "Bhowanipore / Bakul Bagan",
+  "zone": "south",
+  "lat": 22.5277,
+  "lng": 88.35018,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Bakul Bagan\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "bhowanipore-75-pally",
+  "name": "Bhowanipore 75 Pally",
+  "area": "Bhowanipore",
+  "zone": "south",
+  "lat": 22.53258,
+  "lng": 88.34544,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Bhowanipore\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "chakraberia-sarbojanin",
+  "name": "Chakraberia Sarbojanin",
+  "area": "Bhowanipore / Chakraberia",
+  "zone": "south",
+  "lat": 22.53373,
+  "lng": 88.35201,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Chakraberia\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "kalighat-milan-sangha",
+  "name": "Kalighat Milan Sangha",
+  "area": "Kalighat",
+  "zone": "south",
+  "lat": 22.52451,
+  "lng": 88.34108,
+  "locationPrecision": "venue",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Kalighat Milan Sangha\" -> Kalighat Milan Sangha, Harish Chatterjee Road, Bhowanipore, Kolkata, Kolkata Metropolitan ; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "hazra-park",
+  "name": "Hazra Park Durgotsab",
+  "area": "Hazra",
+  "zone": "south",
+  "lat": 22.52976,
+  "lng": 88.35369,
+  "locationPrecision": "venue",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Hazra Park\" -> Public Vehicles Department, Kolkata, 38, Beltala Road, Hazra, Kolkata, Kolkata Metropolita; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "64-pally",
+  "name": "64 Pally Durgotsav Committee",
+  "area": "Hazra",
+  "zone": "south",
+  "lat": 22.52272,
+  "lng": 88.34992,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Hazra\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "lake-gardens-peoples",
+  "name": "Lake Gardens People's Association",
+  "area": "Lake Gardens",
+  "zone": "south",
+  "lat": 22.50805,
+  "lng": 88.35333,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Lake Gardens\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "bosepukur-sitala-mandir",
+  "name": "Kasba Bosepukur Sitala Mandir",
+  "area": "Kasba",
+  "zone": "south",
+  "lat": 22.51916,
+  "lng": 88.38474,
+  "locationPrecision": "venue",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Bosepukur Sitala Mandir\" -> Bosepukur Sitala Mandir, Rash Behari Avenue Connector, Ruby Park East, Kushtia, Kolkata, K; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "bosepukur-talbagan",
+  "name": "Bosepukur Talbagan",
+  "area": "Kasba",
+  "zone": "south",
+  "lat": 22.50444,
+  "lng": 88.37217,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Kasba\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "santoshpur-lake-pally",
+  "name": "Santoshpur Lake Pally",
+  "area": "Santoshpur",
+  "zone": "south",
+  "lat": 22.49605,
+  "lng": 88.38223,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Santoshpur\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "santoshpur-trikon-park",
+  "name": "Santoshpur Trikon Park",
+  "area": "Santoshpur",
+  "zone": "south",
+  "lat": 22.49605,
+  "lng": 88.38223,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Santoshpur\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "selimpur-pally",
+  "name": "Selimpur Pally",
+  "area": "Selimpur",
+  "zone": "south",
+  "lat": 22.50535,
+  "lng": 88.38121,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Selimpur\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "alipore-sarbojanin",
+  "name": "Alipore Sarbojanin",
+  "area": "Alipore",
+  "zone": "south",
+  "lat": 22.52649,
+  "lng": 88.33237,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "traditional"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Alipore\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "kidderpore-sarbojanin",
+  "name": "Kidderpore Sarbojanin",
+  "area": "Kidderpore",
+  "zone": "south",
+  "lat": 22.53538,
+  "lng": 88.32061,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Kidderpore\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "naktala-udayan-sangha",
+  "name": "Naktala Udayan Sangha",
+  "area": "Naktala",
+  "zone": "behala",
+  "lat": 22.47449,
+  "lng": 88.36657,
+  "locationPrecision": "venue",
+  "description": "Well-known Naktala/Garia puja, founded 1986 by committee records.",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme",
+   "headline"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Naktala Udayan Sangha\" -> Naktala Udayan Sangha, Nagtala Road, Bansdroni, Bijoygarh, Kolkata, Kolkata Metropolitan A; crowdByTimeSlot: editorial estimate for tier \"mega\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "tollygunge-agragami",
+  "name": "Tollygunge Agragami",
+  "area": "Tollygunge",
+  "zone": "behala",
+  "lat": 22.49864,
+  "lng": 88.34539,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Tollygunge\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "behala-natun-dal",
+  "name": "Behala Natun Dal",
+  "area": "Behala",
+  "zone": "behala",
+  "lat": 22.49876,
+  "lng": 88.31738,
+  "locationPrecision": "area",
+  "description": "One of Behala's headline theme pujas near Behala Bazar.",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme",
+   "headline"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Behala Bazar\"; crowdByTimeSlot: editorial estimate for tier \"mega\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "barisha-club",
+  "name": "Barisha Club",
+  "area": "Barisha",
+  "zone": "behala",
+  "lat": 22.48071,
+  "lng": 88.31295,
+  "locationPrecision": "venue",
+  "description": "Behala's southern anchor, known for detailed art-installation pandals.",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme",
+   "headline"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Barisha Club\" -> Barisha Club, James Long Sarani, Thakurpukur, Kolkata, Kolkata Metropolitan Area, Kolkata,; crowdByTimeSlot: editorial estimate for tier \"mega\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "behala-club",
+  "name": "Behala Club",
+  "area": "Behala",
+  "zone": "behala",
+  "lat": 22.50157,
+  "lng": 88.32094,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Behala\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "behala-11-pally",
+  "name": "Behala 11 Pally",
+  "area": "Behala",
+  "zone": "behala",
+  "lat": 22.50157,
+  "lng": 88.32094,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Behala\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "behala-debdaru-fatak",
+  "name": "Behala Debdaru Fatak",
+  "area": "Behala",
+  "zone": "behala",
+  "lat": 22.50157,
+  "lng": 88.32094,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Behala\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "acharya-prafulla-sangha",
+  "name": "Acharya Prafulla Sangha (Behala)",
+  "area": "Behala",
+  "zone": "behala",
+  "lat": 22.50157,
+  "lng": 88.32094,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Behala\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "behala-29-palli",
+  "name": "Behala 29 Palli",
+  "area": "Behala",
+  "zone": "behala",
+  "lat": 22.50157,
+  "lng": 88.32094,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Behala\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "behala-friends",
+  "name": "Behala Friends",
+  "area": "Behala",
+  "zone": "behala",
+  "lat": 22.50157,
+  "lng": 88.32094,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Behala\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "barisha-sarbojanin",
+  "name": "Barisha Sarbojanin",
+  "area": "Barisha",
+  "zone": "behala",
+  "lat": 22.4792,
+  "lng": 88.3118,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: manual coordinates in seed (checked against OSM place/street search); crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "41-pally-haridevpur",
+  "name": "41 Pally Club (Haridevpur)",
+  "area": "Haridevpur",
+  "zone": "behala",
+  "lat": 22.4653,
+  "lng": 88.33113,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Haridevpur\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "thakurpukur-sb-park",
+  "name": "Thakurpukur SB Park Sarbojanin",
+  "area": "Thakurpukur",
+  "zone": "behala",
+  "lat": 22.46437,
+  "lng": 88.30753,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Thakurpukur\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "sabarna-roy-choudhury-bari",
+  "name": "Sabarna Roy Choudhury Bari (Barisha)",
+  "area": "Barisha",
+  "zone": "behala",
+  "lat": 22.4792,
+  "lng": 88.3118,
+  "locationPrecision": "area",
+  "theme": "Heritage household (bonedi bari) puja",
+  "description": "Centuries-old family puja of the Sabarna Roy Choudhury family in Barisha.",
+  "openingHours": "Typically daytime to early evening (confirm locally)",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "low"
+  },
+  "tags": [
+   "heritage"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: manual coordinates in seed (checked against OSM place/street search); crowdByTimeSlot: editorial estimate for tier \"heritage\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "fd-block",
+  "name": "FD Block Durgotsab (Salt Lake)",
+  "area": "Salt Lake Sector III",
+  "zone": "saltlake",
+  "lat": 22.58241,
+  "lng": 88.41232,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"FD Block, Salt Lake\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "bj-block",
+  "name": "BJ Block Durgotsab (Salt Lake)",
+  "area": "Salt Lake Sector II",
+  "zone": "saltlake",
+  "lat": 22.59022,
+  "lng": 88.42675,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"BJ Block, Salt Lake\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "ae-block",
+  "name": "AE Block Durgotsab (Salt Lake)",
+  "area": "Salt Lake Sector I",
+  "zone": "saltlake",
+  "lat": 22.60047,
+  "lng": 88.41241,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"AE Block, Salt Lake\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "bd-block",
+  "name": "BD Block Durgotsab (Salt Lake)",
+  "area": "Salt Lake Sector I",
+  "zone": "saltlake",
+  "lat": 22.59479,
+  "lng": 88.40804,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"BD Block, Salt Lake\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "ck-cl-block",
+  "name": "CK-CL Block Durgotsab (Salt Lake)",
+  "area": "Salt Lake Sector II",
+  "zone": "saltlake",
+  "lat": 22.58592,
+  "lng": 88.42676,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"CK Block, Salt Lake\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "ec-block",
+  "name": "EC Block Durgotsab (Salt Lake)",
+  "area": "Salt Lake Sector I",
+  "zone": "saltlake",
+  "lat": 22.58554,
+  "lng": 88.40984,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"EC Block, Salt Lake\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "purbachal-sarbojanin",
+  "name": "Purbachal Sarbojanin (Salt Lake)",
+  "area": "Salt Lake Sector III",
+  "zone": "saltlake",
+  "lat": 22.57397,
+  "lng": 88.40669,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Purbachal, Salt Lake\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "new-town-sarbojanin",
+  "name": "New Town Sarbojanin Durgotsav",
+  "area": "New Town",
+  "zone": "saltlake",
+  "lat": 22.5807,
+  "lng": 88.46238,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"New Town Action Area I\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "kestopur-prafulla-kanan",
+  "name": "Kestopur Prafulla Kanan Paschim Adhibasi Brinda",
+  "area": "Kestopur",
+  "zone": "saltlake",
+  "lat": 22.59733,
+  "lng": 88.43385,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Kestopur\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "arjunpur-amra-sabai",
+  "name": "Arjunpur Amra Sabai Club",
+  "area": "Baguiati / New Town",
+  "zone": "saltlake",
+  "lat": 22.60967,
+  "lng": 88.42768,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Baguiati\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "sreebhumi-sporting",
+  "name": "Sreebhumi Sporting Club",
+  "area": "Lake Town",
+  "zone": "east",
+  "lat": 22.60032,
+  "lng": 88.40259,
+  "locationPrecision": "venue",
+  "description": "Lake Town's headline puja, famed for large theme pandals and long queues.",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme",
+   "headline"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim venue match \"Sreebhumi Sporting Club\" -> Sreebhumi Sporting club, Lake Town, South Dumdum, Kolkata Metropolitan Area, Barrackpur - ; crowdByTimeSlot: editorial estimate for tier \"mega\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "lake-town-adhibasi-brinda",
+  "name": "Lake Town Adhibasi Brinda",
+  "area": "Lake Town",
+  "zone": "east",
+  "lat": 22.60573,
+  "lng": 88.40296,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Lake Town\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "dum-dum-park-bharat-chakra",
+  "name": "Dum Dum Park Bharat Chakra",
+  "area": "Dum Dum Park",
+  "zone": "east",
+  "lat": 22.6114,
+  "lng": 88.4102,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: manual coordinates in seed (checked against OSM place/street search); crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "salkia-barowari",
+  "name": "Salkia Durgotsav Barowari",
+  "area": "Salkia",
+  "zone": "howrah",
+  "lat": 22.59893,
+  "lng": 88.34757,
+  "locationPrecision": "area",
+  "description": "Heritage community puja in Salkia, reported to date back to 1872, known for a traditional (sabeki) idol.",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "traditional"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Salkia\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "salkia-61-pally",
+  "name": "Salkia 61 Pally Sarbojanin",
+  "area": "Salkia",
+  "zone": "howrah",
+  "lat": 22.59893,
+  "lng": 88.34757,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Salkia\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "pally-mangal-club-salkia",
+  "name": "Pally Mangal Club (Salkia)",
+  "area": "Salkia",
+  "zone": "howrah",
+  "lat": 22.59893,
+  "lng": 88.34757,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Salkia\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "shibpur-bati-sangha",
+  "name": "Shibpur Bati Sangha",
+  "area": "Shibpur",
+  "zone": "howrah",
+  "lat": 22.56858,
+  "lng": 88.29421,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Shibpur\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "santragachi-sporting",
+  "name": "Santragachi Sporting Club",
+  "area": "Santragachi",
+  "zone": "howrah",
+  "lat": 22.59397,
+  "lng": 88.2801,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "medium",
+   "evening": "high",
+   "night": "high"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Santragachi\"; crowdByTimeSlot: editorial estimate for tier \"popular\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "bantra-nabin-sangha",
+  "name": "Bantra Nabin Sangha",
+  "area": "Bantra",
+  "zone": "howrah",
+  "lat": 22.59279,
+  "lng": 88.318,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Bantra\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "bally-deshbandhu",
+  "name": "Bally Deshbandhu Club",
+  "area": "Bally",
+  "zone": "howrah",
+  "lat": 22.64696,
+  "lng": 88.34361,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Bally, Howrah\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "bally-juba-sangha",
+  "name": "Bally Juba Sangha Kali Mandir",
+  "area": "Bally / Belur",
+  "zone": "howrah",
+  "lat": 22.63573,
+  "lng": 88.33982,
+  "locationPrecision": "area",
+  "crowdByTimeSlot": {
+   "morning": "low",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "medium"
+  },
+  "tags": [
+   "theme"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Belur, Howrah\"; crowdByTimeSlot: editorial estimate for tier \"local\" (typical peak times, not measured data)"
+ },
+ {
+  "id": "andul-rajbari",
+  "name": "Andul Rajbari",
+  "area": "Andul",
+  "zone": "howrah",
+  "lat": 22.5757,
+  "lng": 88.23945,
+  "locationPrecision": "area",
+  "theme": "Heritage household (bonedi bari) puja",
+  "description": "Heritage family puja across the river in Andul, Howrah.",
+  "openingHours": "Typically daytime to early evening (confirm locally)",
+  "crowdByTimeSlot": {
+   "morning": "medium",
+   "afternoon": "low",
+   "evening": "medium",
+   "night": "low"
+  },
+  "tags": [
+   "heritage"
+  ],
+  "verified": false,
+  "source": "Name/zone compiled from public 2026 pandal listings (pandalhoppings.com, pujomap.com, thepujo.com, durgapujaguide.in, culturetoday.in); location: OSM Nominatim neighbourhood centroid \"Andul\"; crowdByTimeSlot: editorial estimate for tier \"heritage\" (typical peak times, not measured data)"
+ }
+]
